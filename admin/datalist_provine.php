@@ -63,5 +63,5 @@
     <option value="Tp.Đà Nẵng">Tp.Đà Nẵng
     <option value="Tp.Hải Phòng">Tp.Hải Phòng
     <option value="Tp.Hà Nội">Tp.Hà Nội
-    <option value="Tp.HCM">Tp.HCM
+    <option value="Tp.HCM">TP.HCM
 </datalist>
